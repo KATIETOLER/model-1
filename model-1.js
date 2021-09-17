@@ -2,5 +2,9 @@ var plant = "Mini Monstera"
 var plantType = "Aroid"
 
 
-var number = 27
-var bigNumber = 20000000000
+var numberofLeaves = 27
+var cmTall = 200
+
+
+var alive = true
+var inDirt = true
