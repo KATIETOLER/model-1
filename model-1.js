@@ -8,3 +8,5 @@ var cmTall = 200
 
 var alive = true
 var inDirt = true
+
+var array= ["node", "node", "leaf"]
